@@ -50,7 +50,7 @@ This project is a game application designed to play multiple games in one interf
 - `BGI/` - Boarlanf Graphics Interface
 ## Demo
 
-You can view a live demo of the project [here(https://github.com/m-bilal7382/Multi-Game-System/blob/main/Multi%20Game%20System.exe)]. *(Please note that it may take a few seconds for the server to wake up.)*
+You can view a live demo of the project [here](https://github.com/m-bilal7382/Multi-Game-System/blob/main/Multi%20Game%20System.exe). *(Please note that it may take a few seconds for the server to wake up.)*
 
 ## Contributing
 
