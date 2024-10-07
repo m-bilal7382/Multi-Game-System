@@ -12,19 +12,15 @@ This project is a game application designed to play multiple games in one interf
 - Data Structure and Algorithms.
 
 ## 📸 Screenshots
-* Home Page
-
-![Home Page]![Screenshot (296) (1)](https://github.com/user-attachments/assets/ead6e952-1bc2-4b95-b081-2a1f3af45fc3)
+![Screenshot (296) (1)](https://github.com/user-attachments/assets/ead6e952-1bc2-4b95-b081-2a1f3af45fc3)
 
 
 ## 📸 Screenshots
-* Snake Home Page:
-![Home Page]![Screenshot (299)](https://github.com/user-attachments/assets/bf6472e5-0d4c-4207-8e89-f75aaf5424cb)
+![Screenshot (299)](https://github.com/user-attachments/assets/bf6472e5-0d4c-4207-8e89-f75aaf5424cb)
 
 
 ## 📸 Screenshots
-* Sudoku Home Page:
-![Home Page]![Screenshot (301)](https://github.com/user-attachments/assets/72b6e018-8552-41a2-a349-4b1e8af6d75c)
+![Screenshot (301)](https://github.com/user-attachments/assets/72b6e018-8552-41a2-a349-4b1e8af6d75c)
 
 
 
