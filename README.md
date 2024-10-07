@@ -3,7 +3,7 @@ Multi Game System is a program where users can play a game by choosing out of th
 
 ## Overview
 
-This project is a game application designed to play multiple games in one interface. It utilizes Borland technology for graphics. All users can view the game interface to select different game modules. 
+This project is a game application designed to play multiple games on one platform. It utilizes Borland technology for graphics. All users can view the game interface to select different game modules. 
 
 ## ❇️Features
 
