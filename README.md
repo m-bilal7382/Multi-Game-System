@@ -54,7 +54,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## 🧑‍💻License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/m-bilal7382)file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/m-bilal7382/Multi-Game-System/blob/main/get_key.c) file for details.
 
 ## 🚀Contact
 
