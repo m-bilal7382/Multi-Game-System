@@ -36,7 +36,7 @@ This project is a game application designed to play multiple games on one platfo
 
 1. Start the VS Code:
     ```compile executable file
-    main.exe
+    Multi Game System.exe
     ```
 2. Automatic open to view the application.
 
